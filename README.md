@@ -1,5 +1,5 @@
 # teamcity-build-board
 
-![Alt text](teamcity-build-board/images/active-board.jpg)
+![Alt text](images/folder-structure.jpg?raw=true "Folder Structure")
 
-![Alt text](teamcity-build-board/images/folder-structure.jpg)
+![Alt text](images/active-board.jpg?raw=true "Active Board")
